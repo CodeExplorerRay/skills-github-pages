@@ -1,29 +1,33 @@
-👋 Welcome to My World
-Hi, I’m CodeExplorerRay, an IT Professional with a passion for building tech solutions that solve real-world problems. Whether it's infrastructure, automation, or the cloud — I bring clarity to complexity.
+# 👋 Welcome to My World
 
-🚀 What I Do
-💻 IT Infrastructure – Designing and managing robust systems.
+Hi, I’m **Raymond**, an IT Professional with a passion for building tech solutions that solve real-world problems. Whether it's infrastructure, automation, or the cloud — I bring clarity to complexity.
 
-☁️ Cloud Solutions – AWS, Azure, hybrid environments.
+---
 
-🔐 Security & Compliance – Keeping your data safe and sound.
+## 🚀 What I Do
 
-🔧 Automation – Scripting and tooling for efficiency.
+- 💻 **IT Infrastructure** – Designing and managing robust systems  
+- ☁️ **Cloud Solutions** – AWS, Azure, hybrid environments  
+- 🔐 **Security & Compliance** – Keeping your data safe and sound  
+- 🔧 **Automation** – Scripting and tooling for efficiency  
+- 🧠 **Learning & Sharing** – Staying sharp and helping others do the same  
 
-🧠 Learning & Sharing – Staying sharp and helping others do the same.
+---
 
-🌱 Currently Working On
-Enhancing cloud cost optimization strategies
+## 🌱 Currently Working On
 
-Exploring AI integrations in system monitoring
+- Enhancing cloud cost optimization strategies  
+- Exploring AI integrations in system monitoring  
+- Writing blog posts on cybersecurity best practices  
 
-Writing blog posts on cybersecurity best practices
+---
 
-📬 Let’s Connect
-LinkedIn
+## 📬 Let’s Connect
 
-GitHub
+- [LinkedIn](https://www.linkedin.com)  
+- [GitHub](https://www.github.com)  
+- [Email Me](mailto:raymond@example.com)
 
-Email Me
+---
 
-"Simplicity is the soul of efficiency." – Austin Freeman
+> _"Simplicity is the soul of efficiency."_ – Austin Freeman
